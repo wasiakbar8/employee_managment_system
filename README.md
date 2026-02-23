@@ -10,7 +10,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License](https://img.shields.io/badge/License-MIT-00E5A0?style=for-the-badge)](LICENSE)
 
-[🚀 Live Demo](https://your-vercel-link.vercel.app) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/wasiakbar8/employee_managment_system/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/wasiakbar8/employee_managment_system/issues)
+[🚀 Live Demo](https://employee-managment-system-kappa.vercel.app) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/wasiakbar8/employee_managment_system/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/wasiakbar8/employee_managment_system/issues)
 
 </div>
 
@@ -47,7 +47,6 @@
 ### 🎨 UI/UX
 - 🌑 Luxury dark theme — Obsidian dark with electric cyan & gold accents
 - ✨ Smooth fade-up animations and glow hover effects
-- 📱 Responsive layout
 - 🔤 Premium typography — Syne + JetBrains Mono fonts
 
 ---
@@ -62,36 +61,6 @@
 | **Vite** | Lightning-fast build tool |
 | **Tailwind CSS** | Utility-first styling |
 | **CSS Variables** | Consistent design tokens & theming |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have **Node.js** (v16+) and **npm** installed.
-
-```bash
-node --version   # v16 or higher
-npm --version    # v8 or higher
-```
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/wasiakbar8/employee_managment_system.git
-
-# 2. Navigate into the project
-cd employee_managment_system
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
@@ -141,49 +110,6 @@ src/
 
 ---
 
-## 🔄 How It Works
-
-```
-User logs in
-     │
-     ├── Admin? ──→ AdminDashboard
-     │                   ├── View all employees + task counts (Alltask)
-     │                   └── Create & assign tasks (Createtask)
-     │
-     └── Employee? ──→ EmployeeDashboard
-                           ├── Stat cards (Tasklistnumber)
-                           └── Task board (Tasklist)
-                               ├── NewTask    → Accept button
-                               ├── AcceptTask → Complete / Fail buttons
-                               ├── CompleteTask
-                               └── FailedTask
-```
-
----
-
-## 📸 How to Add Screenshots
-
-1. Take screenshots of your running app
-2. Create a `screenshots/` folder in your project root
-3. Save them as:
-   - `screenshots/admin-dashboard.png`
-   - `screenshots/employee-dashboard.png`
-4. Push to GitHub — images will appear automatically in this README
-
----
-
-## 🚢 Deployment
-
-This project is deployed on **Vercel**. To deploy your own:
-
-1. Push code to GitHub
-2. Go to [vercel.com](https://vercel.com) → Import your repo
-3. Click **Deploy** — done!
-
-Every `git push` triggers an automatic redeployment.
-
----
-
 ## 🔮 Future Improvements
 
 - [ ] Add real backend with Node.js + MongoDB
@@ -196,32 +122,12 @@ Every `git push` triggers an automatic redeployment.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-```bash
-# Fork the repo, then:
-git checkout -b feature/AmazingFeature
-git commit -m "Add AmazingFeature"
-git push origin feature/AmazingFeature
-# Open a Pull Request
-```
-
----
-
 ## 👨‍💻 Author
 
-**Your Name**
+**Syed Wasi Akbar**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURPROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-wasi-akbar-)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/wasiakbar8)
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
